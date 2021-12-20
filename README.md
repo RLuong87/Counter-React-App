@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Watched a React.js tutorial for beginners
+In this project, I learned how to create a shopping cart.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
